@@ -10,8 +10,10 @@ dotenv: .env
 networks:
   default: development
   development:
+    # metodo fedro2
     initialSupply: 21000000000000000000000000
   rinkeby:
+    # metodo fedro2
     initialSupply: 21000000000000000000000000
     verify: true
 wallets:
